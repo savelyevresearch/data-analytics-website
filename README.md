@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Frontend of website providing data analysis services (HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Presentation of the website frontend:
+
+![data-analytics-website-presentation-img](./assets/data-analytics-website-presentation-img.png)
 
 ## Available Scripts
 
