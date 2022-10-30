@@ -1,4 +1,15 @@
-# Frontend of website providing data analysis services (HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js)
+# Frontend of website providing data analysis services
+
+## Technology stack:
+
+<center style='display: flex'>
+    <img src='./assets/html-icon.png' alt='html-icon'/>
+    <img src='./assets/css-icon.png' alt='css-icon'/>
+    <img src='./assets/js-icon.png' alt='js-icon'/>
+    <img src='./assets/tailwindcss-icon.png' alt='tailwindcss-icon'/>
+    <img src='./assets/react-icon.png' alt='react-icon'/>
+    <img src='./assets/nodejs-icon.png' alt='nodejs-icon'/>
+</center>
 
 ## Presentation of the website frontend:
 
