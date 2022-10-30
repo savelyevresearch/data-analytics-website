@@ -2,7 +2,13 @@
 
 ## Presentation of the website frontend:
 
+### Desktop/Laptop view
+
 ![data-analytics-website-presentation-img](./assets/data-analytics-website-presentation-img.png)
+
+### Mobile view
+
+![data-analytics-website-presentation-img-mobile](./assets/data-analytics-website-presentation-img-mobile.png)
 
 ## Available Scripts
 
