@@ -2,14 +2,12 @@
 
 ## Technology stack:
 
-<center style='display: inline'>
-    <img src='./assets/html-icon.png' alt='html-icon' width='50px' height='50px'/>
-    <img src='./assets/css-icon.png' alt='css-icon' width='50px' height='50px'/>
-    <img src='./assets/js-icon.png' alt='js-icon' width='50px' height='50px'/>
-    <img src='./assets/tailwindcss-icon.png' alt='tailwindcss-icon' width='50px' height='50px'/>
-    <img src='./assets/react-icon.png' alt='react-icon' width='50px' height='50px'/>
-    <img src='./assets/nodejs-icon.png' alt='nodejs-icon' width='50px' height='50px'/>
-</center>
+<img src='./assets/html-icon.png' alt='html-icon' width='50px' height='50px' style='display: inline'/>
+<img src='./assets/css-icon.png' alt='css-icon' width='50px' height='50px' style='display: inline'/>
+<img src='./assets/js-icon.png' alt='js-icon' width='50px' height='50px' style='display: inline'/>
+<img src='./assets/tailwindcss-icon.png' alt='tailwindcss-icon' width='50px' height='50px' style='display: inline'/>
+<img src='./assets/react-icon.png' alt='react-icon' width='50px' height='50px' style='display: inline'/>
+<img src='./assets/nodejs-icon.png' alt='nodejs-icon' width='50px' height='50px' style='display: inline'/>
 
 ## Presentation of the website frontend:
 
