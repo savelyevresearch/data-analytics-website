@@ -2,12 +2,12 @@
 
 ## Technology stack:
 
-![html-icon]('./assets/html-icon.png')
-![css-icon]('./assets/css-icon.png')
-![js-icon]('./assets/js-icon.png')
-![tailwindcss-icon]('./assets/tailwindcss-icon.png')
-![react-icon]('./assets/react-icon.png')
-![nodejs-icon]('./assets/nodejs-icon.png')
+![html-icon](./assets/html-icon.png)
+![css-icon](./assets/css-icon.png)
+![js-icon](./assets/js-icon.png)
+![tailwindcss-icon](./assets/tailwindcss-icon.png)
+![react-icon](./assets/react-icon.png)
+![nodejs-icon](./assets/nodejs-icon.png)
 
 ## Presentation of the website frontend:
 
