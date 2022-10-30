@@ -1,16 +1,5 @@
 # Frontend of website providing data analysis services
 
-## Technology stack:
-
-<div style='display: flex; flex-direction: row;'>
-    <img alt='html-icon' src='./assets/html-icon.png'/>
-    <img alt='css-icon' src='./assets/css-icon.png'/>
-    <img alt='js-icon' src='./assets/js-icon.png'/>
-    <img alt='tailwindcss-icon' src='./assets/tailwindcss-icon.png'/>
-    <img alt='react-icon' src='./assets/react-icon.png'/>
-    <img alt='nodejs-icon' src='./assets/nodejs-icon.png'/>
-</div>
-
 ## Presentation of the website frontend:
 
 ![data-analytics-website-presentation-img](./assets/data-analytics-website-presentation-img.png)
